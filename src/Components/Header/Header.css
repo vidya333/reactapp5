@@ -1,0 +1,23 @@
+.searchbar{
+    padding-right: 600px;
+    border-radius: 30px;
+}
+.navbarp{
+  z-index: 99;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.3));
+}
+.nav-link{
+    color: #ffffff !important;
+}
+.dropdown-menu{
+    --bs-dropdown-bg:transparent;
+    --bs-dropdown-border-color:transparent;
+}
+.form-control{
+    background-color: hsl(0, 0%, 100%,0.9);
+}
+.but{
+    margin-top: -6px;
+}

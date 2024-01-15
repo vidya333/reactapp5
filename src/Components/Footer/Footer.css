@@ -1,0 +1,31 @@
+footer{
+    background: #0f2834;
+    width: 100%;min-height: 500px;
+    height: auto;
+    color: #fff;
+}
+.foot{width:100%;}
+.subscribe{
+    background: linear-gradient(rgba(12, 36, 58, 0.7),rgba(14, 41, 61, 0.7)),url(../../../public/footer.jpg);
+    background-size:cover;
+    width:100%;min-height: 330px;
+    color: #fff;
+}
+.subscribe .form-control{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.subscribe button{
+    border-radius: 15px;
+    width: 20%;
+}
+.subscribe p{
+    font-size: 21px;
+    font-weight: 200;
+}
+footer p{
+    font-size: 19px;
+    font-weight: 200;
+}

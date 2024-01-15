@@ -1,0 +1,17 @@
+.about{
+    width: 100%;
+    background: #27495f;
+    margin-top: -20px;
+    padding: 30px;
+    padding-bottom: 60px;
+}
+.row{
+--bs-gutter-x: 0;
+}
+.people{
+    opacity: 0.9;
+}
+.text{
+    text-align: justify;
+    padding-right: 30px;
+}

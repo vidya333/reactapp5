@@ -1,0 +1,9 @@
+.icon-box{
+    background: hsl(0, 0%, 100%,0.3);
+    padding: 30px 20px;
+    border-radius: 15px;
+    /* box-shadow: 0px 6px 12px 0px rgb(75, 74, 74); */
+}
+.component{
+    width:100%;
+}
